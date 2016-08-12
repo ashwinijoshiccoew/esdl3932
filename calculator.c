@@ -13,3 +13,8 @@ int add(int p,int q)
 {
   
   }
+  
+  int sub(int p,int q)
+  {
+    return p-q;
+  }
